@@ -1,2 +1,5 @@
 HOLA 
 esta es la prueba de git 
+
+1. git init
+
